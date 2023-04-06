@@ -1,5 +1,5 @@
 ## Architecture
-- `frontend` — common UI, client-side storage, SPA
+- [`frontend`](/frontend) — common UI, client-side storage, SPA
 - `auth` — user isentity concerns, JWT, identity management (sign in, sign up, delete, etc.)
 - `actors` — users & organizations, actor profiles
 - `events` — event profiles, statuses, trigger scheduling, real-time statistics, notifications
