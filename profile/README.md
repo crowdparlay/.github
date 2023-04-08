@@ -1,6 +1,6 @@
 ## Architecture
 - [`frontend`](https://github.com/crowd-parlay/frontend) — common UI, client-side storage, SPA
-- [`auth`](https://github.com/crowd-parlay/auth) — user isentity concerns, JWT, identity management (sign in, sign up, delete, etc.)
+- ~~[`auth`](https://github.com/crowd-parlay/auth) — user isentity concerns, JWT, identity management (sign in, sign up, delete, etc.)~~
 - `users` — authentication, preferences, actor-specific stuff
 - `organizations` — roles, organization-specific stuff
 - `profiles` — user & organization profiles (common functionality)
