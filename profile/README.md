@@ -1,3 +1,7 @@
+![crowdparlay-banner](https://user-images.githubusercontent.com/69521267/233803978-1faabed2-71ec-46f1-bc0f-f92ba5861a81.png)
+
+
+
 ## Architecture
 - [`frontend`](https://github.com/crowdparlay/frontend) — common UI, client-side storage, SPA
 - [`users`](https://github.com/crowdparlay/users) — authentication, preferences, actor-specific stuff
