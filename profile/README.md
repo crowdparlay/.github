@@ -1,6 +1,4 @@
-![crowdparlay-banner](https://user-images.githubusercontent.com/69521267/233803978-1faabed2-71ec-46f1-bc0f-f92ba5861a81.png)
-
-
+![crowdparlay-banner](https://user-images.githubusercontent.com/69521267/233804366-e083787e-faf1-4261-bf26-25137e35263e.png)
 
 ## Architecture
 - [`frontend`](https://github.com/crowdparlay/frontend) — common UI, client-side storage, SPA
