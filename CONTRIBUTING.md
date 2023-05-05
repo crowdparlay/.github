@@ -2,7 +2,7 @@
 
 > [Conventional commits](https://www.conventionalcommits.org/en)
 
-Конвенция:
+#### Конвенция
 ```clj
 тип(скоуп): описание
 ```
