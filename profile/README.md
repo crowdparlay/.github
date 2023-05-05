@@ -2,8 +2,8 @@
 
 ## Microservices
 - [`frontend`](https://github.com/crowdparlay/frontend) — common UI, client-side storage, SPA
-- [`users`](https://github.com/crowdparlay/users) — authentication, preferences, actor-specific stuff
-- [`social`](https://github.com/crowdparlay/social) — chats, boards, event-centric discussions
+- [`users`](https://github.com/crowdparlay/users) — authentication, preferences, profiles
+- [`social`](https://github.com/crowdparlay/social) — posts, discussions, platform-wide references
 
 ## Other repositories
 - [`deploy`](https://github.com/crowdparlay/deploy) — deployment configuration and automation
