@@ -7,3 +7,4 @@
 
 ## Other repositories
 - [`deploy`](https://github.com/crowdparlay/deploy) — deployment configuration and automation
+- [`.github`](https://github.com/crowdparlay/.github) — GitHub profile and common conventions
