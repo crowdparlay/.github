@@ -1,3 +1,6 @@
+> **Warning**
+> This organization has been moved to https://gitlab.otter.su/crowdparlay
+
 [![crowdparlay-banner](https://user-images.githubusercontent.com/69521267/233804505-294d9e23-22b3-4400-9b65-e973439bc47c.png)](#)
 
 ## Microservices
