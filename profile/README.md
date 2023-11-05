@@ -11,4 +11,4 @@
 - [`.github`](https://github.com/crowdparlay/.github) — GitHub profile
 
 ## Development
-- [`genesis`](https://github.com/orgs/crowdparlay/projects/13/views/2?sliceBy%5BcolumnId%5D=Repository) — backlog project
+- [`genesis`](https://github.com/orgs/crowdparlay/projects/13/views/2?sliceBy%5BcolumnId%5D=Repository&visibleFields=%5B"Title"%2C"Assignees"%2C"Status"%2C"Labels"%2C"Linked+pull+requests"%5D) — backlog project
