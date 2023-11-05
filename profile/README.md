@@ -1,6 +1,3 @@
-> **Warning**
-> This organization has been moved to https://gitlab.otter.su/crowdparlay
-
 [![crowdparlay-banner](https://user-images.githubusercontent.com/69521267/233804505-294d9e23-22b3-4400-9b65-e973439bc47c.png)](#)
 
 ## Microservices
@@ -11,3 +8,6 @@
 ## Other repositories
 - [`deploy`](https://github.com/crowdparlay/deploy) — deployment configuration and automation
 - [`.github`](https://github.com/crowdparlay/.github) — GitHub profile and common conventions
+
+## Development
+- [`беклог`](https://github.com/orgs/crowdparlay/projects/13/views/2?sliceBy%5BcolumnId%5D=Repository) — backlog project
