@@ -6,8 +6,9 @@
 - [`social`](https://github.com/crowdparlay/social) — posts, discussions, platform-wide references
 
 ## Other repositories
+- [`foundation`](https://github.com/crowdparlay/foundation) — development workflow and conventions
 - [`deploy`](https://github.com/crowdparlay/deploy) — deployment configuration and automation
-- [`.github`](https://github.com/crowdparlay/.github) — GitHub profile and common conventions
+- [`.github`](https://github.com/crowdparlay/.github) — GitHub profile
 
 ## Development
-- [`беклог`](https://github.com/orgs/crowdparlay/projects/13/views/2?sliceBy%5BcolumnId%5D=Repository) — backlog project
+- [`genesis`](https://github.com/orgs/crowdparlay/projects/13/views/2?sliceBy%5BcolumnId%5D=Repository) — backlog project
