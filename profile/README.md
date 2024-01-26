@@ -5,7 +5,6 @@
 
 ## Other repositories
 - [`foundation`](https://github.com/crowdparlay/foundation) — development workflow and conventions
-- [`deploy`](https://github.com/crowdparlay/deploy) — deployment configuration and automation
 - [`dotnet-communication`](https://github.com/crowdparlay/dotnet-communication) — message broker tools for .NET
 - [`.github`](https://github.com/crowdparlay/.github) — GitHub profile
 
