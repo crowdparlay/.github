@@ -12,3 +12,6 @@
 - [users-proto](https://github.com/crowdparlay/users-proto) — gRPC schema for *users* microservice
 - [notifier](https://github.com/crowdparlay/notifier) — notification microservice, temporarly suspended
 - [.github](https://github.com/crowdparlay/.github) — GitHub profile
+
+![](https://github.com/user-attachments/assets/7fa85a55-326c-4d5a-9a2a-afb9c2e3313f)
+
