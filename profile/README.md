@@ -13,6 +13,13 @@
 - [notifier](https://github.com/crowdparlay/notifier) — notification microservice, temporarly suspended
 - [.github](https://github.com/crowdparlay/.github) — GitHub profile
 
+## CI/CD Release Pipeline (GitHub Actions)
+![CI/CD Release Pipeline](https://github.com/user-attachments/assets/397c0637-8274-43d8-aa8e-6e43ea5f63ed)
+
+## CI .NET Test Report (GitHub Actions)
+![CI .NET Test Report](https://github.com/user-attachments/assets/4d9e6010-1a95-4350-a4fb-4aefb2f9a664)
+
+
 ## Istio Mesh (Kiali)
 ![Istio Mesh](https://github.com/user-attachments/assets/d9dbc8ea-450e-457e-a71a-4f7dfe4eb9a1)
 
@@ -20,7 +27,7 @@
 ![Versioned App Graph](https://github.com/user-attachments/assets/6fd502b6-1004-4040-9e6f-62560b093a9f)
 
 ## Elastic APM Transactions (Kibana)
-![APM Transactions](https://github.com/user-attachments/assets/7f7f3852-edfd-414f-8052-84ce1e4ae81d)
+![Elastic APM Transactions](https://github.com/user-attachments/assets/7f7f3852-edfd-414f-8052-84ce1e4ae81d)
 
 ## Elastic APM Metrics (Kibana)
 ![CPU Usage](https://github.com/user-attachments/assets/67ecd545-2f2e-41d2-887d-502099e7e625)
