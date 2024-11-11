@@ -1,7 +1,8 @@
 ## Microservices
-- [frontend](https://github.com/crowdparlay/frontend) — common UI, client-side storage, SPA
 - [users](https://github.com/crowdparlay/users) — authentication, preferences, profiles
 - [social](https://github.com/crowdparlay/social) — discussions, comments, reactions
+- [frontend](https://github.com/crowdparlay/frontend) — common UI, client-side storage, SPA
+- [notifier](https://github.com/crowdparlay/notifier) — notification microservice, temporarly suspended
 
 ## Development
 - [foundation](https://github.com/crowdparlay/foundation) — development workflows and conventions
@@ -10,7 +11,6 @@
 ## Others
 - [dotnet-communication](https://github.com/crowdparlay/dotnet-communication) — message broker tools for .NET
 - [users-proto](https://github.com/crowdparlay/users-proto) — gRPC schema for *users* microservice
-- [notifier](https://github.com/crowdparlay/notifier) — notification microservice, temporarly suspended
 - [.github](https://github.com/crowdparlay/.github) — GitHub profile
 
 ## CI/CD Release Pipeline (GitHub Actions)
