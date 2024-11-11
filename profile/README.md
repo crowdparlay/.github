@@ -13,5 +13,6 @@
 - [notifier](https://github.com/crowdparlay/notifier) — notification microservice, temporarly suspended
 - [.github](https://github.com/crowdparlay/.github) — GitHub profile
 
-![](https://github.com/user-attachments/assets/7fa85a55-326c-4d5a-9a2a-afb9c2e3313f)
+![image](https://github.com/user-attachments/assets/d9dbc8ea-450e-457e-a71a-4f7dfe4eb9a1)
 
+![image](https://github.com/user-attachments/assets/6fd502b6-1004-4040-9e6f-62560b093a9f)
