@@ -13,6 +13,9 @@
 - [users-proto](https://github.com/crowdparlay/users-proto) — gRPC schema for *users* microservice
 - [.github](https://github.com/crowdparlay/.github) — GitHub profile
 
+## System Topology
+![System Topology](https://github.com/user-attachments/assets/e7b9a353-92e1-4647-a85c-a854a30a99e3)
+
 ## CI/CD Release Pipeline (GitHub Actions)
 ![CI/CD Release Pipeline](https://github.com/user-attachments/assets/397c0637-8274-43d8-aa8e-6e43ea5f63ed)
 
